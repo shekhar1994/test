@@ -1,0 +1,8 @@
+package com.logger.repoository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class WelcomeRepo {
+
+}
